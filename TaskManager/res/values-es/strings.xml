@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Administrador de Tareas</string>
+    <string name="add_task">Añadir Tarea</string>
+    <string name="plus_sign">  +  </string>
+    <string name="cancel">Cancelar</string>
+    <string name="tasks">Tarea</string>
+    <string name="unsaved_changes_title">Cambios no guardados</string>
+    <string name="unsaved_changes_message">¿Te gustaría añadir esta tarea?</string>
+    <string name="discard">Descartar</string>
+    <string name="no_tasks">No Hay Tareas</string>
+    <string name="remove_complete">- Tarea Completada</string>
+    <string name="description">Descripción</string>
+    <string name="add_location_to_task">Agregar Ubicación a Tarea</string>
+    <string name="use_this_location">Utilizar Esta Ubicación</string>
+    <string name="map_this_address">Ubicar Dirección</string>
+    <string name="edit_location">Editar Ubicación</string>
+    <string name="show_local">Mostrar Sólo Tareas Cercanas</string>
+</resources>
